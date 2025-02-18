@@ -8,7 +8,7 @@ This project focuses on optimizing supply chain operations, including logistics 
 
 This [Original Dataset](Data/supply_chain_data.csv) comes from [Kaggle](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis). It is a dataset collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products.
 
-Please refer to the Methods folder for [Results](Methods and Results/README.md)
+Please refer to the Methods folder for [Results](Methods_and_Results/README.md)
 
 Managing inventory and logistics efficiently is a critical challenge in supply chain management. Companies often struggle with:
 
