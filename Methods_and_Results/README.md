@@ -45,6 +45,7 @@ FROM Data_Source
 GROUP BY Product_type
 ORDER BY 2 DESC;
 ```
+
 | Product_type | Number_of_Products | Average_Price |
 | ------------ | ------------------ | ------------- |
 | skincare     | 40                 | 47.26         |
@@ -303,5 +304,14 @@ ORDER BY Supplier_Name;
 
 **Supplier 1 has the highest pass percentage** (48.15%) but still has a significant number of pending inspections (29.63%). Supplier 2 and Supplier 5 show higher failure rates (36.36% and 38.89%, respectively) with a substantial portion of inspections still pending. Supplier 3 has the highest percentage of pending inspections (66.67%), indicating potential delays in quality assessment. **Supplier 4** has the **worst performance, with a 66.67% failure rate and no passed inspections**. Overall, most suppliers have a high percentage of pending or failed inspections, suggesting **possible quality control or compliance issues**.
 
-
 This analysis provides a holistic view of the company's operations, from product performance to supply chain efficiency. By addressing these questions, we can make data-driven decisions to improve overall business outcomes.
+
+To improve company performance, several key actions should be taken based on the data analysis.
+First, inventory management can be optimized by addressing stock availability issues, particularly
+in **haircare products**, which show lower availability compared to skincare and cosmetics.
+Supplier reliability must also be improved, as **lead times and quality inspections reveal inconsistencies**,
+with high failure and pending rates affecting supply chain efficiency.
+Prioritizing partnerships with suppliers that maintain **low lead times and higher pass rates** will enhance product flow.
+Additionally, transportation costs and lead times indicate that **sea routes provide the most cost-effective options**, whereas **air and road transportation incur higher costs and longer lead times. Adjusting logistics strategies to prioritize efficient routes** can lower costs while maintaining timely deliveries. Furthermore, **revenue and profit data suggest a need to focus on high-margin products**
+, ensuring that marketing and sales efforts align with the most profitable items. Lastly, **customer demand trends highlight key SKUs with high order volume**, so ensuring consistent stock levels of top-selling products will prevent missed sales opportunities.
+Implementing these changes will streamline operations, reduce costs, and maximize profitability while maintaining high service levels.
