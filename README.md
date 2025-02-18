@@ -2,6 +2,8 @@
 
 _(Still a work in progress)_
 
+![Supply_Chain](/Assets/supply_chain.jpg)
+
 Supply chain analytics plays a crucial role in data-driven decision-making across industries like manufacturing, retail, healthcare, and logistics. It involves collecting, analyzing, and interpreting data on the flow of products and services from suppliers to customers.
 
 This project focuses on optimizing supply chain operations, including logistics and inventory management, through data-driven insights. Using SQL, I analyze inventory levels, order fulfillment rates, warehouse efficiency, and transportation costs to enhance supply chain performance and reduce operational bottlenecks.
@@ -25,7 +27,7 @@ This project aims to tackle these challenges by leveraging SQL for data analysis
 - Tableau / Power BI – Data visualization and reporting.
 - Excel / Google Sheets – Data preprocessing and validation.
 
-## Questions Answerable Using SQL
+## Questions Answered Using SQL
 
 **This project enables answering key business questions such as:**
 
@@ -44,7 +46,6 @@ This project aims to tackle these challenges by leveraging SQL for data analysis
 ## Lessons Learned
 
 - Importance of data normalization for efficient querying.
-- Using indexes and optimized SQL queries for performance enhancement.
 - The impact of accurate inventory forecasting on reducing costs.
 - Integration of SQL with visualization tools for better decision-making.
 
