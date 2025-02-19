@@ -1,7 +1,5 @@
 # Supply Chain Optimization (Logistics & Inventory)
 
-_(Still a work in progress)_
-
 ![Supply_Chain](/Assets/supply_chain.jpg)
 
 Supply chain analytics plays a crucial role in data-driven decision-making across industries like manufacturing, retail, healthcare, and logistics. It involves collecting, analyzing, and interpreting data on the flow of products and services from suppliers to customers.
@@ -11,6 +9,8 @@ This project focuses on optimizing supply chain operations, including logistics 
 This [Original Dataset](Data/supply_chain_data.csv) comes from [Kaggle](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis). It is a dataset collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products.
 
 Please refer to the Methods folder for [Results](Methods_and_Results/README.md)
+
+A [Tableau Dashboard](https://public.tableau.com/app/profile/kevin.chabau/viz/SupplyChainOptimizationLogisticsInventory/Dashboard1) was created in correlation with the project to better visualize business operations. If you would like to follow along.
 
 Managing inventory and logistics efficiently is a critical challenge in supply chain management. Companies often struggle with:
 

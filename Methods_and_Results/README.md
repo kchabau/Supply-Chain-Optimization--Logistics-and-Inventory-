@@ -167,6 +167,7 @@ We broke down revenue by product type to identify which categories are the most 
 SELECT Product_Type,
     ROUND(SUM(Revenue_generated), 2) AS Total_Revenue,
     ROUND(SUM(Revenue_Generated) - SUM(Costs), 2) AS Profit,
+    ROUND(Total_Revenue - Profit, 2) AS 'Revenue - Profit',
     ROUND(SUM(Revenue_generated) / SUM(Number_Of_Products_Sold), 2) AS 'Revenue per Product',
     SUM(Number_Of_Products_Sold) AS '# of Products Sold',
     SUM(Order_Quantities) AS '# of Orders'
